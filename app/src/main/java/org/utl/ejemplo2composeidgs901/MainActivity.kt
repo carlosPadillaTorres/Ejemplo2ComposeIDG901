@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
 //                    PantallaDetalle(navController, nombre)
 //                }
 //            }
-            sumarNumeros()
+            operacionesDosNumeros()
         }
     }
 }
